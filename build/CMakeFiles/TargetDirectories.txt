@@ -1,0 +1,5 @@
+/home/lotfi/Desktop/AMR_OrderOptimizer/build/CMakeFiles/amr_basis.dir
+/home/lotfi/Desktop/AMR_OrderOptimizer/build/CMakeFiles/OrderOptimizer.dir
+/home/lotfi/Desktop/AMR_OrderOptimizer/build/CMakeFiles/RunAmrTests.dir
+/home/lotfi/Desktop/AMR_OrderOptimizer/build/CMakeFiles/edit_cache.dir
+/home/lotfi/Desktop/AMR_OrderOptimizer/build/CMakeFiles/rebuild_cache.dir
